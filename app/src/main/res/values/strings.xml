@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeANDDate</string>
+    <string name="change_date">Change the date</string>
+</resources>
