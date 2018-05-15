@@ -36,6 +36,7 @@ public class MainActivity extends Activity {
         int year = calendar.get(calendar.YEAR);
         final int month = calendar.get(calendar.MONTH);
         int day = calendar.get(calendar.DAY_OF_MONTH);
+        // Myday is  good dayh
 
         /*
             init(int year, int monthOfYear, int dayOfMonth,
