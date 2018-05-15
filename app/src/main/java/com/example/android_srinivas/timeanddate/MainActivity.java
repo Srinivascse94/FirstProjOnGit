@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
         final int month = calendar.get(calendar.MONTH);
         int day = calendar.get(calendar.DAY_OF_MONTH);
         // Myday is  good dayh
-
+//This is the trail of github
         /*
             init(int year, int monthOfYear, int dayOfMonth,
                 DatePicker.OnDateChangedListener onDateChangedListener)
